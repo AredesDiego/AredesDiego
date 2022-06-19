@@ -1,15 +1,32 @@
--------------------------------------------------------------------
-                                                                
-+ hi people, i'm Aredes Diego Fabian.      
-                                                                
-+ 🧑‍💻 i'm a student of electronic technician. 
-                                                                
-+ 👍 i like c++ and python.                 
-                                                                                                                    
-+ 🦾 I was an industrial electromechanical assistant.   
-                                                                
-+ 🤵 i'm 18 years old.                                            
-                                                                
-+ 🧠 i like to science and math.                                  
-                                                                
--------------------------------------------------------------------
+# 💫About Me :
+Hola gente, soy Aredes Diego Fabián.
+
+🧑‍💻 Soy estudiante de técnico electrónico.
+
+👍 Me gusta c ++ y python.
+
+🦾 Fui asistente electromecánico industrial.
+
+🤵 Tengo 18 años.
+
+🧠 Me gusta la ciencia y las matemáticas.
+
+
+
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/@elpadrinocorleone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Diego Aredes) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aredesdiego) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Diego Aredes) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18649803) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Diego72657795) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/tZzJVZGmA842PNImCoNDcQ) 
+
+# 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=AredesDiego&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AredesDiego&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AredesDiego&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AredesDiego&icon=7&color=1)](https://visitcount.itsvg.in)
+   
+                   
