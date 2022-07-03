@@ -1,16 +1,15 @@
 # 💫About Me :
-Hola gente, soy Aredes Diego Fabián.
+Hello people, I'm Aredes Diego Fabián.
 
-🧑‍💻 Soy estudiante de técnico electrónico.
+🧑‍💻 I am an electronic technician student.
 
-👍 Me gusta c ++ y python.
+👍 I like c++ and python.
 
-🦾 Fui asistente electromecánico industrial.
+🦾 I was an industrial electromechanical assistant.
 
-🤵 Tengo 18 años.
+🤵 I'm 18 years old.
 
-🧠 Me gusta la ciencia y las matemáticas.
-
+🧠 I like science and math.
 
 
 ## 🌐Socials
