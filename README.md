@@ -1,16 +1,4 @@
 # 💫About Me :
-Hello people, I'm Aredes Diego Fabián.
-
-🧑‍💻 I am an electronic technician student.
-
-👍 I like c++ and python.
-
-🦾 I was an industrial electromechanical assistant.
-
-🤵 I'm 18 years old.
-
-🧠 I like science and math.
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-aredes-8666a6242/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aredesdiego) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Diego-Aredes-1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18649803) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Diego72657795) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/tZzJVZGmA842PNImCoNDcQ) 
